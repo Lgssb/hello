@@ -1,4 +1,11 @@
 # Task 1
+本次实验使用CPC（Contrastive Predictive Coding）模型,对比baseline：ResNet-18在CIFAR-100图像分类的性能。
+
+### Run
+
+```
+python test.py
+``````
 
 
 # Task 2
@@ -39,4 +46,10 @@ https://github.com/chx7514/Data-Augmentations-for-CIFAR100
 https://github.com/193814327/transformer-cifar100
 
 # Task 3
+
+本次实验使用COLMAP + NeRF进行三维重建，需安装COLMAP软件对数据进行预处理，然后使用NeRF模型对物体进行三维重建
+
+由于数据集和COLMAP软件处理后的数据集文件较大，故完整代码+处理前后数据集+结果上传至云盘，github中仅存有必要代码和结果展示
+
+
 
