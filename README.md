@@ -39,7 +39,7 @@ python train.py -c configs/default.yaml --name train
 python test.py -c configs/defaul.yaml --name test -p checkpoint
 ```
 
-## Reference
+### Reference
 
 https://github.com/chx7514/Data-Augmentations-for-CIFAR100
 
@@ -51,7 +51,22 @@ https://github.com/193814327/transformer-cifar100
 
 由于数据集和COLMAP软件处理后的数据集文件较大，故完整代码+处理前后数据集+结果上传至云盘，github中仅存有必要代码和结果展示
 
-## Reference
+### How to Run
+
+数据集的COLMAP处理详细记录在report中，将COLMAP处理结果文件复制到Nerf项目 data/nerf_llff_data下面的新的plant文件
+
+命令行输入命令
+
+```
+python run_nerf.py --config configs/plant.txt 即可开始进行训练
+``````
+
+### Result
+
+
+
+
+### Reference
 
 https://colmap.github.io/
 
