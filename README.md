@@ -51,5 +51,10 @@ https://github.com/193814327/transformer-cifar100
 
 由于数据集和COLMAP软件处理后的数据集文件较大，故完整代码+处理前后数据集+结果上传至云盘，github中仅存有必要代码和结果展示
 
+## Reference
+
+https://colmap.github.io/
+
+https://github.com/yenchenlin/nerf-pytorch
 
 
