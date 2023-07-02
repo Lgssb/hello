@@ -49,7 +49,7 @@ https://github.com/193814327/transformer-cifar100
 
 本次实验使用COLMAP + NeRF进行三维重建，需安装COLMAP软件对数据进行预处理，然后使用NeRF模型对物体进行三维重建
 
-由于数据集和COLMAP软件处理后的数据集文件较大，故完整代码+处理前后数据集+结果上传至云盘，github中仅存有必要代码和结果展示
+由于数据集和COLMAP软件处理后的数据集文件较大，故完整代码+COLMAP处理前后数据集+重建结果上传至云盘，github中仅存有必要代码和结果展示
 
 ### How to Run
 
