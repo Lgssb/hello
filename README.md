@@ -53,7 +53,7 @@ https://github.com/193814327/transformer-cifar100
 
 ### How to Run
 
-数据集的COLMAP处理详细记录在report中，将COLMAP处理结果文件复制到Nerf项目文件夹 nerf_pytorch/data/nerf_llff_data 下面，并将文件夹命名为plant文件
+数据集的COLMAP处理步骤详细记录在report中，将COLMAP处理后的结果文件复制到Nerf项目文件夹 nerf_pytorch/data/nerf_llff_data 下面，并将此文件夹命名为plant文件
 
 命令行输入命令
 
