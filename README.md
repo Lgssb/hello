@@ -58,8 +58,10 @@ https://github.com/193814327/transformer-cifar100
 命令行输入命令
 
 ```
-python run_nerf.py --config configs/plant.txt 即可开始进行训练
+python run_nerf.py --config configs/plant.txt
 ``````
+
+即可开始进行训练
 
 ### Result
 
